@@ -1,0 +1,1486 @@
+{
+  "fda100c7-99fc-44f7-8327-04d68772c0ef": {
+    "ray": {
+      "rayID": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+      "type": "root",
+      "content": {
+        "title": "The Key Differences Between the Orthodox and Roman Catholic Churches",
+        "description": "The Key Differences Between the Orthodox and Roman Catholic Churches",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "Group"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "9ae2938e-f3dc-453d-9a47-6113a7e9a623",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "314a82ef-cb30-4495-9ae3-7c3f1a5f5df3",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "4fdf2d75-d4cf-4cc8-b0e3-bb002d6e1d10",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "159e9d86-20d3-4000-ae52-c0aacd38e2a3",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "1d231d29-a2b1-4862-b24b-8610e9df2665",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "b834e36a-7d03-4353-82a5-957537d49401",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "a7143bee-a4bf-4828-89cb-daae61a9fda4",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "8ec51ce8-fa4e-4d97-8844-135526acf345",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "e4359c1b-2474-45a0-83dc-7185c1e850b0",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "57a88395-7e87-47cc-b83f-1e31ca4729ab",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "1926ac5b-69ae-420d-be93-62bf4fdf9133",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "ac81e0df-41f5-46fa-b901-836e0dc0441d",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#1C1D22",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": null,
+          "lineColor": "",
+          "lineWidth": 4,
+          "to": {
+            "x": 240,
+            "y": 480
+          },
+          "from": {
+            "x": 240,
+            "y": 480
+          }
+        }
+      }
+    }
+  },
+  "9ae2938e-f3dc-453d-9a47-6113a7e9a623": {
+    "ray": {
+      "rayID": "9ae2938e-f3dc-453d-9a47-6113a7e9a623",
+      "type": "concept",
+      "content": {
+        "title": "Papal Authority",
+        "description": "Papal Authority",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "f91866c0-7b5d-4f1e-83ad-f8ffe771103a",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "7c84c66b-9829-4b84-8fba-7cfc155ec122",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#4452EE",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "to": {
+            "x": 240,
+            "y": 480
+          },
+          "from": {
+            "x": 240,
+            "y": 480
+          }
+        }
+      }
+    }
+  },
+  "314a82ef-cb30-4495-9ae3-7c3f1a5f5df3": {
+    "ray": {
+      "rayID": "314a82ef-cb30-4495-9ae3-7c3f1a5f5df3",
+      "type": "concept",
+      "content": {
+        "title": "Ascenticism and Fasting",
+        "description": "Ascenticism and Fasting",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "f7028cbd-f4ed-47f7-a29e-8414f40be8a5",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "96985fb7-42cb-4dca-afee-f30838308409",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#F76526",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "4fdf2d75-d4cf-4cc8-b0e3-bb002d6e1d10": {
+    "ray": {
+      "rayID": "4fdf2d75-d4cf-4cc8-b0e3-bb002d6e1d10",
+      "type": "concept",
+      "content": {
+        "title": "Iconostasis",
+        "description": "Iconostasis",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "0ca1610f-a5ac-4cf7-9ed3-d4edc4e68780",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "c82e39a4-698f-42cb-b166-db77d1ad34a2",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#00A85F",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "159e9d86-20d3-4000-ae52-c0aacd38e2a3": {
+    "ray": {
+      "rayID": "159e9d86-20d3-4000-ae52-c0aacd38e2a3",
+      "type": "concept",
+      "content": {
+        "title": "Icons",
+        "description": "Icons",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "21122122-2a08-4c0b-81ee-b36b8cd3a1cf",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "ddc1bfee-7853-4c04-8cd4-6169f87c61ab",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "1d231d29-a2b1-4862-b24b-8610e9df2665": {
+    "ray": {
+      "rayID": "1d231d29-a2b1-4862-b24b-8610e9df2665",
+      "type": "concept",
+      "content": {
+        "title": "Involvement of Children",
+        "description": "Involvement of Children",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "9eb62aeb-1673-4c3b-97f2-9f8fab3f6497",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "ec46d31f-62bd-4c72-a974-07a712965b76",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#4452EE",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "b834e36a-7d03-4353-82a5-957537d49401": {
+    "ray": {
+      "rayID": "b834e36a-7d03-4353-82a5-957537d49401",
+      "type": "concept",
+      "content": {
+        "title": "Sign of the Cross",
+        "description": "Sign of the Cross",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "c2467697-47c1-450d-8d90-22e6f1b2b248",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "ec60c27e-c0c5-4c6e-8e87-c0ed5baa07fe",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#F76526",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "a7143bee-a4bf-4828-89cb-daae61a9fda4": {
+    "ray": {
+      "rayID": "a7143bee-a4bf-4828-89cb-daae61a9fda4",
+      "type": "concept",
+      "content": {
+        "title": "Forgiveness of Sins",
+        "description": "Forgiveness of Sins",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "20d81f36-48b3-483e-8d35-79d7d2aaab24",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "79d4f04b-a3a4-459e-93a4-8a61e3b688a0",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#00A85F",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "8ec51ce8-fa4e-4d97-8844-135526acf345": {
+    "ray": {
+      "rayID": "8ec51ce8-fa4e-4d97-8844-135526acf345",
+      "type": "concept",
+      "content": {
+        "title": "Gestures of Prayer",
+        "description": "Gestures of Prayer",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "727eb7b2-4bd0-4c77-880a-2bf203e157c8",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "55097942-c21f-44fb-8674-42b46cc798ca",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "e4359c1b-2474-45a0-83dc-7185c1e850b0": {
+    "ray": {
+      "rayID": "e4359c1b-2474-45a0-83dc-7185c1e850b0",
+      "type": "concept",
+      "content": {
+        "title": "Holy Water",
+        "description": "Holy Water",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "19a211e6-1143-45e4-b31c-c5906d5dbb64",
+          "connectionType": "child"
+        },
+        {
+          "rayID": "af37cca5-3a5b-4c9d-91ba-1d2649300014",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#4452EE",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "57a88395-7e87-47cc-b83f-1e31ca4729ab": {
+    "ray": {
+      "rayID": "57a88395-7e87-47cc-b83f-1e31ca4729ab",
+      "type": "concept",
+      "content": {
+        "title": "Clerical Attire",
+        "description": "Clerical Attire",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "d81ee1ec-be38-48a5-aa11-fa4b818337f2",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#F76526",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "1926ac5b-69ae-420d-be93-62bf4fdf9133": {
+    "ray": {
+      "rayID": "1926ac5b-69ae-420d-be93-62bf4fdf9133",
+      "type": "concept",
+      "content": {
+        "title": "Veneration of Relics",
+        "description": "Veneration of Relics",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": [
+        {
+          "rayID": "daaa5454-ffd2-4458-a57e-da635d9406c0",
+          "connectionType": "child"
+        }
+      ]
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#00A85F",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "ac81e0df-41f5-46fa-b901-836e0dc0441d": {
+    "ray": {
+      "rayID": "ac81e0df-41f5-46fa-b901-836e0dc0441d",
+      "type": "concept",
+      "content": {
+        "title": "Clerical Celibacy",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#FFFFFF",
+          "opacity": 1.0
+        },
+        "connectionRendering": {
+          "connectedRay": "fda100c7-99fc-44f7-8327-04d68772c0ef",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "fda100c7-99fc-44f7-8327-04d68772c0ef"
+        }
+      }
+    }
+  },
+  "f91866c0-7b5d-4f1e-83ad-f8ffe771103a": {
+    "ray": {
+      "rayID": "f91866c0-7b5d-4f1e-83ad-f8ffe771103a",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "9ae2938e-f3dc-453d-9a47-6113a7e9a623",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "9ae2938e-f3dc-453d-9a47-6113a7e9a623"
+        }
+      }
+    }
+  },
+  "7c84c66b-9829-4b84-8fba-7cfc155ec122": {
+    "ray": {
+      "rayID": "7c84c66b-9829-4b84-8fba-7cfc155ec122",
+      "type": "concept",
+      "content": {
+        "title": "The Orthodox Church has two distinct groups of clergy: the white or married clergy, and the black or monastic clergy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "9ae2938e-f3dc-453d-9a47-6113a7e9a623",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "9ae2938e-f3dc-453d-9a47-6113a7e9a623"
+        }
+      }
+    }
+  },
+  "f7028cbd-f4ed-47f7-a29e-8414f40be8a5": {
+    "ray": {
+      "rayID": "f7028cbd-f4ed-47f7-a29e-8414f40be8a5",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#F76526",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "314a82ef-cb30-4495-9ae3-7c3f1a5f5df3",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "314a82ef-cb30-4495-9ae3-7c3f1a5f5df3"
+        }
+      }
+    }
+  },
+  "96985fb7-42cb-4dca-afee-f30838308409": {
+    "ray": {
+      "rayID": "96985fb7-42cb-4dca-afee-f30838308409",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#F76526",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "314a82ef-cb30-4495-9ae3-7c3f1a5f5df3",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "314a82ef-cb30-4495-9ae3-7c3f1a5f5df3"
+        }
+      }
+    }
+  },
+  "0ca1610f-a5ac-4cf7-9ed3-d4edc4e68780": {
+    "ray": {
+      "rayID": "0ca1610f-a5ac-4cf7-9ed3-d4edc4e68780",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#00A85F",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "4fdf2d75-d4cf-4cc8-b0e3-bb002d6e1d10",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "4fdf2d75-d4cf-4cc8-b0e3-bb002d6e1d10"
+        }
+      }
+    }
+  },
+  "c82e39a4-698f-42cb-b166-db77d1ad34a2": {
+    "ray": {
+      "rayID": "c82e39a4-698f-42cb-b166-db77d1ad34a2",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#00A85F",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "4fdf2d75-d4cf-4cc8-b0e3-bb002d6e1d10",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "4fdf2d75-d4cf-4cc8-b0e3-bb002d6e1d10"
+        }
+      }
+    }
+  },
+  "21122122-2a08-4c0b-81ee-b36b8cd3a1cf": {
+    "ray": {
+      "rayID": "21122122-2a08-4c0b-81ee-b36b8cd3a1cf",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "159e9d86-20d3-4000-ae52-c0aacd38e2a3",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "159e9d86-20d3-4000-ae52-c0aacd38e2a3"
+        }
+      }
+    }
+  },
+  "ddc1bfee-7853-4c04-8cd4-6169f87c61ab": {
+    "ray": {
+      "rayID": "ddc1bfee-7853-4c04-8cd4-6169f87c61ab",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "159e9d86-20d3-4000-ae52-c0aacd38e2a3",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "159e9d86-20d3-4000-ae52-c0aacd38e2a3"
+        }
+      }
+    }
+  },
+  "9eb62aeb-1673-4c3b-97f2-9f8fab3f6497": {
+    "ray": {
+      "rayID": "9eb62aeb-1673-4c3b-97f2-9f8fab3f6497",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#00A85F",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "1d231d29-a2b1-4862-b24b-8610e9df2665",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "1d231d29-a2b1-4862-b24b-8610e9df2665"
+        }
+      }
+    }
+  },
+  "ec46d31f-62bd-4c72-a974-07a712965b76": {
+    "ray": {
+      "rayID": "ec46d31f-62bd-4c72-a974-07a712965b76",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#00A85F",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "1d231d29-a2b1-4862-b24b-8610e9df2665",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "1d231d29-a2b1-4862-b24b-8610e9df2665"
+        }
+      }
+    }
+  },
+  "c2467697-47c1-450d-8d90-22e6f1b2b248": {
+    "ray": {
+      "rayID": "c2467697-47c1-450d-8d90-22e6f1b2b248",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#F76526",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "b834e36a-7d03-4353-82a5-957537d49401",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "b834e36a-7d03-4353-82a5-957537d49401"
+        }
+      }
+    }
+  },
+  "ec60c27e-c0c5-4c6e-8e87-c0ed5baa07fe": {
+    "ray": {
+      "rayID": "ec60c27e-c0c5-4c6e-8e87-c0ed5baa07fe",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#F76526",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "b834e36a-7d03-4353-82a5-957537d49401",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "b834e36a-7d03-4353-82a5-957537d49401"
+        }
+      }
+    }
+  },
+  "20d81f36-48b3-483e-8d35-79d7d2aaab24": {
+    "ray": {
+      "rayID": "20d81f36-48b3-483e-8d35-79d7d2aaab24",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#00A85F",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "a7143bee-a4bf-4828-89cb-daae61a9fda4",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "a7143bee-a4bf-4828-89cb-daae61a9fda4"
+        }
+      }
+    }
+  },
+  "79d4f04b-a3a4-459e-93a4-8a61e3b688a0": {
+    "ray": {
+      "rayID": "79d4f04b-a3a4-459e-93a4-8a61e3b688a0",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#00A85F",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "a7143bee-a4bf-4828-89cb-daae61a9fda4",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "a7143bee-a4bf-4828-89cb-daae61a9fda4"
+        }
+      }
+    }
+  },
+  "727eb7b2-4bd0-4c77-880a-2bf203e157c8": {
+    "ray": {
+      "rayID": "727eb7b2-4bd0-4c77-880a-2bf203e157c8",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "8ec51ce8-fa4e-4d97-8844-135526acf345",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "8ec51ce8-fa4e-4d97-8844-135526acf345"
+        }
+      }
+    }
+  },
+  "55097942-c21f-44fb-8674-42b46cc798ca": {
+    "ray": {
+      "rayID": "55097942-c21f-44fb-8674-42b46cc798ca",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "8ec51ce8-fa4e-4d97-8844-135526acf345",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "8ec51ce8-fa4e-4d97-8844-135526acf345"
+        }
+      }
+    }
+  },
+  "19a211e6-1143-45e4-b31c-c5906d5dbb64": {
+    "ray": {
+      "rayID": "19a211e6-1143-45e4-b31c-c5906d5dbb64",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "e4359c1b-2474-45a0-83dc-7185c1e850b0",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "e4359c1b-2474-45a0-83dc-7185c1e850b0"
+        }
+      }
+    }
+  },
+  "af37cca5-3a5b-4c9d-91ba-1d2649300014": {
+    "ray": {
+      "rayID": "af37cca5-3a5b-4c9d-91ba-1d2649300014",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "e4359c1b-2474-45a0-83dc-7185c1e850b0",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "e4359c1b-2474-45a0-83dc-7185c1e850b0"
+        }
+      }
+    }
+  },
+  "aa507073-d21c-4eb1-a362-e9068cbd3cfa": {
+    "ray": {
+      "rayID": "aa507073-d21c-4eb1-a362-e9068cbd3cfa",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "57a88395-7e87-47cc-b83f-1e31ca4729ab",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "57a88395-7e87-47cc-b83f-1e31ca4729ab"
+        }
+      }
+    }
+  },
+  "e29405ff-804e-478c-a29f-2255e0cdc580": {
+    "ray": {
+      "rayID": "e29405ff-804e-478c-a29f-2255e0cdc580",
+      "type": "concept",
+      "content": {
+        "title": "In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "57a88395-7e87-47cc-b83f-1e31ca4729ab",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "57a88395-7e87-47cc-b83f-1e31ca4729ab"
+        }
+      }
+    }
+  },
+  "d81ee1ec-be38-48a5-aa11-fa4b818337f2": {
+    "ray": {
+      "rayID": "d81ee1ec-be38-48a5-aa11-fa4b818337f2",
+      "type": "concept",
+      "content": {
+        "title": "IIn the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.n the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "57a88395-7e87-47cc-b83f-1e31ca4729ab",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "57a88395-7e87-47cc-b83f-1e31ca4729ab"
+        }
+      }
+    }
+  },
+  "daaa5454-ffd2-4458-a57e-da635d9406c0": {
+    "ray": {
+      "rayID": "daaa5454-ffd2-4458-a57e-da635d9406c0",
+      "type": "concept",
+      "content": {
+        "title": "IIn the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.In the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.n the Roman Catholic Church, only unmarried men can be ordained as bishops, a discipline known as clerical celibacy.",
+        "description": "Clerical Celibacy",
+        "source": {
+          "type": "youtube",
+          "url": "https://source-url.com",
+          "timestamp": "2024-06-25T10:30:00Z"
+        },
+        "image": "https://source-url.com"
+      },
+      "metadata": {
+        "createdAt": "2024-06-25T10:30:00Z",
+        "updatedAt": "2024-06-25T10:35:00Z",
+        "version": 1,
+        "tags": ["tag1", "tag2"]
+      },
+      "connections": []
+    },
+    "ray-viz": {
+      "mindmap": {
+        "rayRendering": {
+          "bgColor": "#905BE6",
+          "fontColor": "#000000",
+          "opacity": 0.2
+        },
+        "connectionRendering": {
+          "connectedRay": "1926ac5b-69ae-420d-be93-62bf4fdf9133",
+          "lineColor": "#4452EE",
+          "lineWidth": 4,
+          "from": "1926ac5b-69ae-420d-be93-62bf4fdf9133"
+        }
+      }
+    }
+  }
+}
